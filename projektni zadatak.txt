@@ -1,0 +1,21 @@
+1) dataset
+- koji problem opisuje/rješava
+- uci, kaggle
+- N, d
+
+2) izrada machine learning modela
+- azure ml
+- python
+- C, C++, C#, Java
+- predobrada 
+- treniranje modela
+
+3) izrada web api-ja
+- mlaas - machine learning as a service
+
+4) klijentska aplikacija
+- web 
+- mobilna
+- desktop
+
+opcionalno - statistika (grafovi), proječne vrijednosti svih unosa značajki
